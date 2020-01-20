@@ -1,0 +1,146 @@
+TABLE 35 Unit costs of services and pharmacotherapies (2015/16 prices)
+Service Unit cost (£) Source
+Smoking cessation help
+GP 36 per session Curtis and Burns45
+NHS SSS 17 per session Curtis and Burns45 and NICE80
+NHS Smoking Helpline service 7 per call Curtis and Burns45 and Wu et al.66
+Pharmacotherapies (including dispensing fee)
+Patch 27 per item NHS Digital47 and NHS Business Services Authority48
+Gum 15 per item NHS Digital47 and NHS Business Services Authority48
+Microtab 19 per item NHS Digital47 and NHS Business Services Authority48
+Inhaler 36 per item NHS Digital47 and NHS Business Services Authority48
+Lozenge 17 per item NHS Digital47 and NHS Business Services Authority48
+Spray 30 per item NHS Digital47 and NHS Business Services Authority48
+Mouth strip 17 per item NHS Digital47 and NHS Business Services Authority48
+Varenicline 37 per item NHS Digital47 and NHS Business Services Authority48
+Bupropion 40 per item NHS Digital47 and NHS Business Services Authority48
+Health-care service use
+A&E 162 per attendance NHS Reference Costs 2015 to 201677
+Hospital outpatient 135 per appointment NHS Reference Costs 2015 to 201677
+Hospital inpatient 606 per night NHS Reference Costs 2015 to 201677
+Day case 733 per episode NHS Reference Costs 2015 to 201677
+Emergency ambulance 96 per use NHS Reference Costs 2015 to 201677
+GP (in office) 31 per consultation Curtis and Burns45
+Practice nurse (in office) 9 per visit Curtis and Burns45,81
+GP (home visit) 56 per consultation Curtis and Burns45,81
+Practice nurse (home visit) 17 per visit Curtis and Burns45,81
+Prescription (NIC + dispensing) 22 per prescription NHS Business Services Authority48
+A&E, accident and emergency; NIC, net ingredient cost.
+DOI: 10.3310/hta23430 HEALTH TECHNOLOGY ASSESSMENT 2019 VOL. 23 NO. 43
+© Queen’s Printer and Controller of HMSO 2019. This work was produced by Hajek et al. under the terms of a commissioning contract issued by the Secretary of State for Health
+and Social Care. This issue may be freely reproduced for the purposes of private research and study and extracts (or indeed, the full report) may be included in professional
+journals provided that suitable acknowledgement is made and the reproduction is not associated with any form of advertising. Applications for commercial reproduction should
+be addressed to: NIHR Journals Library, National Institute for Health Research, Evaluation, Trials and Studies Coordinating Centre, Alpha House, University of Southampton Science
+Park, Southampton SO16 7NS, UK.
+77TABLE 36 Model parameters identified and extracted from literature and secondary data sources
+Parameters Value (SE) Source
+Annual probability of relapse (%)
+≤ 10 years 10.00 (3.06) Hughes et al.,68 US HHS,69 Hawkins et al.70
+> 10 years 0 (0) Hughes et al.,68 US HHS,69 Hawkins et al.70
+Mortality (%)
+Men
+Continuing smokers, age (years)
+35–44 0.24 (0.40) Doll et al.,65 ONS71
+45–54 0.80 (0.40) Doll et al.,65 ONS71
+55–64 1.94 (0.52) Doll et al.,65 ONS71
+65–74 5.15 (0.82) Doll et al.,65 ONS71
+≥ 75 25.36 (2.04) Doll et al.,65 ONS71
+Ex-smokers, age (years)
+35–44 0.18 (0.35) Doll et al.,65 ONS71
+45–54 0.51 (0.73) Doll et al.,65 ONS71
+55–64 1.24 (0.58) Doll et al.,65 ONS71
+65–74 3.08 (0.59) Doll et al.,65 ONS71
+≥ 75 15.12 (1.14) Doll et al.,65 ONS71
+Women
+Continuing smokers, age (years)
+35–44 0.14 (0.31) Doll et al.,65 ONS71
+45–54 0.53 (0.33) Doll et al.,65 ONS71
+55–64 1.30 (0.43) Doll et al.,65 ONS71
+65–74 3.45 (0.68) Doll et al.,65 ONS71
+≥ 75 20.79 (1.90) Doll et al.,65 ONS71
+Ex-smokers, age (years)
+35–44 0.11 (0.27) Doll et al.,65 ONS71
+45–54 0.34 (0.59) Doll et al.,65 ONS71
+55–64 0.83 (0.48) Doll et al.,65 ONS71
+65–74 2.06 (0.49) Doll et al.,65 ONS71
+≥ 75 12.40 (1.05) Doll et al.,65 ONS71
+Annual smoking-related healthcare costs after the first year (£)
+Men
+Continuing smokers, age (years)
+35–44 54.48 (0) NHS Digital,75 DHSC,77 HSCIC78
+45–54 54.48 (0) NHS Digital,75 DHSC,77 HSCIC78
+55–64 181.97 (0) NHS Digital,75 DHSC,77 HSCIC78
+65–74 315.75 (0) NHS Digital,75 DHSC,77 HSCIC78
+≥ 75 535.22 (0) NHS Digital,75 DHSC,77 HSCIC78
+Ex-smokers, age (years)
+35–44 16.57 (0) NHS Digital,75 DHSC,77 HSCIC78
+45–54 16.57 (0) NHS Digital,75 DHSC,77 HSCIC78
+55–64 64.99 (0) NHS Digital,75 DHSC,77 HSCIC78
+65–74 83.82 (0) NHS Digital,75 DHSC,77 HSCIC78
+≥ 75 105.36 (0) NHS Digital,75 DHSC,77 HSCIC78
+Women
+Continuing smokers, age (years)
+35–44 41.31 (0) NHS Digital,75 DHSC,77 HSCIC78
+45–54 41.31 (0) NHS Digital,75 DHSC,77 HSCIC78
+55–64 119.83 (0) NHS Digital,75 DHSC,77 HSCIC78
+65–74 249.03 (0) NHS Digital,75 DHSC,77 HSCIC78
+≥ 75 470.69 (0) NHS Digital,75 DHSC,77 HSCIC78
+Ex-smokers, age (years)
+35–44 10.72 (0) NHS Digital,75 DHSC,77 HSCIC78
+45–54 10.72 (0) NHS Digital,75 DHSC,77 HSCIC78
+55–64 40.95 (0) NHS Digital,75 DHSC,77 HSCIC78
+65–74 71.25 (0) NHS Digital,75 DHSC,77 HSCIC78
+≥ 75 103.18 (0) NHS Digital,75 DHSC,77 HSCIC78
+Annual QALY gain after the first year
+Men
+Continuing smokers, age (years)
+35–44 0.889 (0.007) Vogl et al.72
+45–54 0.841 (0.007) Vogl et al.72
+55–64 0.780 (0.008) Vogl et al.72
+65–74 0.756 (0.008) Vogl et al.72
+≥ 75 0.710 (0.009) Vogl et al.72
+Ex-smokers, age (years)
+35–44 0.889 (0.007) Vogl et al.72
+45–54 0.841 (0.007) Vogl et al.72
+55–64 0.780 (0.008) Vogl et al.72
+65–74 0.756 (0.008) Vogl et al.72
+≥ 75 0.710 (0.009) Vogl et al.72
+Women
+Continuing smokers, age (years)
+35–44 0.870 (0.007) Vogl et al.72
+45–54 0.830 (0.007) Vogl et al.72
+55–64 0.763 (0.008) Vogl et al.72
+65–74 0.751 (0.008) Vogl et al.72
+≥ 75 0.676 (0.009) Vogl et al.72
+Ex-smokers, age (years)
+35–44 0.889 (0.004) Vogl et al.72
+45–54 0.850 (0.005) Vogl et al.72
+55–64 0.784 (0.005) Vogl et al.72
+65–74 0.773 (0.006) Vogl et al.72
+≥ 75 0.700 (0.007) Vogl et al.72
+Annual discount rate (%)
+Cost discount rate 3.5 NICE44
+Outcome discount rate 3.5 NICE44
+NRT product Cost per item + fee (£)
+24-hour patch
+21 mg 25
+14 mg 25
+7 mg 25
+16-hour patch
+25 mg 24
+15 mg 26
+10 mg 26
+Microtab (2 mg) 17
+Mouth strip (2.5 mg) 15
+Gum
+4 mg 15
+2 mg 12
+Lozenge
+4 mg 15
+2 mg 15
+Nasal spray 41
+Minis
+4 mg 17
+1.5 mg 15
+Inhalator 33
+Mouth spray 26
