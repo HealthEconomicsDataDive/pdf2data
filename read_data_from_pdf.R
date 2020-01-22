@@ -1,6 +1,6 @@
 #
 # read data from pdf table
-#
+# team work
 #
 
 install.packages("pdftools")
@@ -35,3 +35,5 @@ raw_text[41]
 table <- str_split(raw_text, "\r", simplify = TRUE) %>% str_split("\n", simplify = TRUE) %>% str_split("          ", simplify = TRUE)
 View(table)
 write.csv(table, "table3.csv")
+
+
